@@ -2,6 +2,7 @@
 Public mgTimer Repository for MestroGaming.net
 
 mgTimer is based on an early version of ckSurf, with in-house improvements.
+
 Created: October 2015
 
 ## Credits
@@ -14,4 +15,4 @@ Created: October 2015
 *   [Jakeey802](https://github.com/Jakeey802)
 *   Grandpa Goose
 *   [Ace](https://github.com/13ace37) [xace.ch](https://xace.ch)
-*   [olokos](https://github.com/olokos) [Steam](https://steamcommunity.com/id/olokos/)
+*   [olokos](https://steamcommunity.com/id/olokos/)
